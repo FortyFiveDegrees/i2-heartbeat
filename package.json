@@ -3,7 +3,7 @@
     "child_process": "^1.0.2",
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
-    "i2.js": "^1.1.1",
+    "i2.js": "^1.1.6",
     "path": "^0.12.7"
   },
   "name": "i2-heartbeat",
