@@ -9,5 +9,3 @@ Added features over Final Release of Scuewer Heartbeat:
 * More robust backend, removed unneeded things
 
 i2 Heartbeat is built upon [i2.js](https://github.com/FortyFiveDegrees/i2.js). This software is still in beta, so please make any issues/PRs as needed.
-
-<img src="https://github.com/FortyFiveDegrees/i2-heartbeat/releases/download/1.0.0/viz.png">
