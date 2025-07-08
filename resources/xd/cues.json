@@ -26,11 +26,13 @@
     ],
     "sidebar": [
         {"name":"Sidebar Enhanced","duration":1800,"preview":"#","product":"SidebarXC"},
-        {"name":"Sidebar Enhanced Storm","duration":1800,"preview":"#","product":"SidebarXD"}
+        {"name":"Sidebar Enhanced Storm","duration":1800,"preview":"#","product":"SidebarXD"},
+	    	    {"name":"Sidebar Nemo","duration":2680,"preview":"#","product":"SidebarE"}
     ],
     "hb3": [
         {"name":"Sidebar Enhanced","duration":1800,"preview":"#","product":"SidebarXC"},
-        {"name":"Sidebar Enhanced Storm","duration":1800,"preview":"#","product":"SidebarXD"}
+        {"name":"Sidebar Enhanced Storm","duration":1800,"preview":"#","product":"SidebarXD"},
+	    {"name":"Sidebar Nemo","duration":2680,"preview":"#","product":"SidebarE"}
     ],
     "hb": [
         {"name":"Nemo","duration":1950,"preview":"#","product":"V"},
